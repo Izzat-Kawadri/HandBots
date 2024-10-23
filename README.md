@@ -1,4 +1,4 @@
-# Mobile-Robot-with-Gesture-Control-Using-ROS
+# HandBots
 
 <p align="center" >
   <img src="./images/mobilerobot.png" alt="robot" height="400"/>
