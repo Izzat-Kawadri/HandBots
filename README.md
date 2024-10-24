@@ -96,7 +96,7 @@ To get started with this project, follow the steps below to set up the software 
 ### 1. Clone the Repository :
 Clone the project repository to your local machine:
 ```
-git clone https://github.com/Izzat-Kawadri/Mobile-Robot-with-Gesture-Control-Using-ROS.git
+git clone https://github.com/Izzat-Kawadri/HandBots.git
 ```
 
 ### 2. ESP32 Setup :
